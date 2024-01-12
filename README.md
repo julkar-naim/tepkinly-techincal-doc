@@ -1,4 +1,6 @@
 
+# Image Extension
+
 | Tab      | Label                                  | Type                                                | Name                               | Mandatory | Description                                                                                                                                                                                             |
 |----------|----------------------------------------|-----------------------------------------------------|------------------------------------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Asset    | Inherit featured image from page        | Checkbox                                            | ./imageFromPageImage               | true      | Use the featured image defined in the properties of the linked page, or in the properties of the current page when no link is defined.                                                               |
@@ -19,3 +21,6 @@
 | Metadata |                                            | Link                                                | /mnt/overlay/core/wcm/components/commons/editor/dialog/link/v1/link/edit/link               |           |                                                                                                                                        |
 | Metadata | ID                                     | Textfield                                           | ./id                              |           | HTML ID attribute to apply to the component.                                                                                                                                                          |
 | Styletab |                                            | Include (Referencing the style tab component)       | /mnt/overlay/cq/gui/components/authoring/dialog/style/tab_edit/styletab                    |           |                                                                                                                                        |
+
+
+# File Download
