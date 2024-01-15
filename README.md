@@ -64,8 +64,8 @@
 
 | Tab      | Label                                  | Type                                                | Name                               | Mandatory | Description |                                                                                                                                                                                            
 |----------|----------------------------------------|-----------------------------------------------------|------------------------------------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-                                                                                                                                            |
-| Styletab |                                            | Include (Referencing the style tab component)       | /mnt/overlay/cq/gui/components/authoring/dialog/style/tab_edit/styletab                    |           |                                                                                                                                        |
+  | Styletab      |                                        | Include (Referencing the style tab component)                                                | /mnt/overlay/cq/gui/components/authoring/dialog/style/tab_edit/styletab                               |  |  |                                                                                                                                     
+                                                             
 
                                                                                                                                                 
 
