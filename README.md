@@ -59,3 +59,13 @@
 | Properties | HTML ID                | Textfield     | ./id                         |           | HTML ID attribute to apply to the component.                                                                                            |
 | Properties | Label (Accessibility)  | Textfield     | ./accessibilityLabel          |           | Value of an aria-label attribute for the container, describing the container content.                                                  |
 | Properties | Role (Accessibility)   | Textfield     | ./roleAttribute               |           | HTML ROLE attribute to apply to the component.                                                                                         |
+
+# Separator
+
+| Tab      | Label                                  | Type                                                | Name                               | Mandatory | Description |                                                                                                                                                                                            
+|----------|----------------------------------------|-----------------------------------------------------|------------------------------------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+                                                                                                                                            |
+| Styletab |                                            | Include (Referencing the style tab component)       | /mnt/overlay/cq/gui/components/authoring/dialog/style/tab_edit/styletab                    |           |                                                                                                                                        |
+
+                                                                                                                                                
+
